@@ -5,7 +5,7 @@ import (
 	"reflect"
 )
 
-func exemplo() {
+func main() {
 
 	var nome string = "Robson"
 	var versao float32 = 1.1

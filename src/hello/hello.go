@@ -5,7 +5,7 @@ import (
 	"reflect"
 )
 
-func main() {
+func exemplo() {
 
 	var nome string = "Robson"
 	var versao float32 = 1.1
@@ -50,8 +50,5 @@ func main() {
 	fmt.Println("O comando escolhido foi ", comando)
 
 	fmt.Println("--------------------------------------")
-
-
-	
 
 }
